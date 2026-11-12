@@ -1,3 +1,6 @@
 inital content
+HEAD
 remote changes 1
 remote changes 2
+local changes 2
+0aed671 (local update 2)
